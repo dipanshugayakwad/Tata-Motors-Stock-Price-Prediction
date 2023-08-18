@@ -33,15 +33,14 @@ Welcome to the Tata Motors Stock Prediction project! This repository focuses on 
 
 We employ the following methods and techniques in this project:
 
-- Data preprocessing: Cleaning, normalization, and feature engineering.
+- Data preprocessing: Cleaning, normalization, and evaluating.
 - Feature selection: Identifying relevant features for prediction.
 - Model selection: Experimenting with various machine learning algorithms (e.g., Linear Regression, Random Forest, LSTM).
-- Hyperparameter tuning: Optimizing model parameters for better performance.
 - Evaluation: Assessing model performance using appropriate metrics (e.g., Mean Absolute Error, Root Mean Squared Error).
 
 ## Results
 
-The results obtained from the models are promising, with some models outperforming others based on evaluation metrics. We provide detailed insights and analysis of the prediction accuracy in the [Results](/results) directory.
+The code give the promising feature , with some models outperforming others based on evaluation metrics. We provide detailed insights of code and analysis of the prediction accuracy in the [Code.py](/ Code.py) directory.
 
 ## Contributing
 
